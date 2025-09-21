@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tomeugarau.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/contacts/</loc>
+        <lastmod>2020-07-09</lastmod>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/cv/</loc>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/</loc>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/seminari-poisson-iac3/</loc>
+        <lastmod>2023-07-23</lastmod>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/sentinel2ginet/</loc>
+        <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/tfg/</loc>
+        <lastmod>2023-07-23</lastmod>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/tfm/</loc>
+        <lastmod>2024-07-02</lastmod>
+    </url>
+    <url>
+        <loc>https://tomeugarau.github.io/publications/visapp2025/</loc>
+        <lastmod>2025-02-26</lastmod>
+    </url>
+</urlset>
